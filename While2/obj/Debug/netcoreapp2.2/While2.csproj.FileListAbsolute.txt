@@ -1,0 +1,11 @@
+C:\Users\T4\CSharp\PrimeirosPassos\While2\bin\Debug\netcoreapp2.2\While2.deps.json
+C:\Users\T4\CSharp\PrimeirosPassos\While2\bin\Debug\netcoreapp2.2\While2.runtimeconfig.json
+C:\Users\T4\CSharp\PrimeirosPassos\While2\bin\Debug\netcoreapp2.2\While2.runtimeconfig.dev.json
+C:\Users\T4\CSharp\PrimeirosPassos\While2\bin\Debug\netcoreapp2.2\While2.dll
+C:\Users\T4\CSharp\PrimeirosPassos\While2\bin\Debug\netcoreapp2.2\While2.pdb
+C:\Users\T4\CSharp\PrimeirosPassos\While2\obj\Debug\netcoreapp2.2\While2.csprojAssemblyReference.cache
+C:\Users\T4\CSharp\PrimeirosPassos\While2\obj\Debug\netcoreapp2.2\While2.csproj.CoreCompileInputs.cache
+C:\Users\T4\CSharp\PrimeirosPassos\While2\obj\Debug\netcoreapp2.2\While2.AssemblyInfoInputs.cache
+C:\Users\T4\CSharp\PrimeirosPassos\While2\obj\Debug\netcoreapp2.2\While2.AssemblyInfo.cs
+C:\Users\T4\CSharp\PrimeirosPassos\While2\obj\Debug\netcoreapp2.2\While2.dll
+C:\Users\T4\CSharp\PrimeirosPassos\While2\obj\Debug\netcoreapp2.2\While2.pdb

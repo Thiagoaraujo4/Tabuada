@@ -1,0 +1,11 @@
+C:\Users\T4\CSharp\PrimeirosPassos\While1\bin\Debug\netcoreapp2.2\While1.deps.json
+C:\Users\T4\CSharp\PrimeirosPassos\While1\bin\Debug\netcoreapp2.2\While1.runtimeconfig.json
+C:\Users\T4\CSharp\PrimeirosPassos\While1\bin\Debug\netcoreapp2.2\While1.runtimeconfig.dev.json
+C:\Users\T4\CSharp\PrimeirosPassos\While1\bin\Debug\netcoreapp2.2\While1.dll
+C:\Users\T4\CSharp\PrimeirosPassos\While1\bin\Debug\netcoreapp2.2\While1.pdb
+C:\Users\T4\CSharp\PrimeirosPassos\While1\obj\Debug\netcoreapp2.2\While1.csprojAssemblyReference.cache
+C:\Users\T4\CSharp\PrimeirosPassos\While1\obj\Debug\netcoreapp2.2\While1.csproj.CoreCompileInputs.cache
+C:\Users\T4\CSharp\PrimeirosPassos\While1\obj\Debug\netcoreapp2.2\While1.AssemblyInfoInputs.cache
+C:\Users\T4\CSharp\PrimeirosPassos\While1\obj\Debug\netcoreapp2.2\While1.AssemblyInfo.cs
+C:\Users\T4\CSharp\PrimeirosPassos\While1\obj\Debug\netcoreapp2.2\While1.dll
+C:\Users\T4\CSharp\PrimeirosPassos\While1\obj\Debug\netcoreapp2.2\While1.pdb

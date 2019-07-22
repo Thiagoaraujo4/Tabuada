@@ -1,0 +1,11 @@
+C:\Users\T4\CSharp\PrimeirosPassos\For1\bin\Debug\netcoreapp2.2\For1.deps.json
+C:\Users\T4\CSharp\PrimeirosPassos\For1\bin\Debug\netcoreapp2.2\For1.runtimeconfig.json
+C:\Users\T4\CSharp\PrimeirosPassos\For1\bin\Debug\netcoreapp2.2\For1.runtimeconfig.dev.json
+C:\Users\T4\CSharp\PrimeirosPassos\For1\bin\Debug\netcoreapp2.2\For1.dll
+C:\Users\T4\CSharp\PrimeirosPassos\For1\bin\Debug\netcoreapp2.2\For1.pdb
+C:\Users\T4\CSharp\PrimeirosPassos\For1\obj\Debug\netcoreapp2.2\For1.csprojAssemblyReference.cache
+C:\Users\T4\CSharp\PrimeirosPassos\For1\obj\Debug\netcoreapp2.2\For1.csproj.CoreCompileInputs.cache
+C:\Users\T4\CSharp\PrimeirosPassos\For1\obj\Debug\netcoreapp2.2\For1.AssemblyInfoInputs.cache
+C:\Users\T4\CSharp\PrimeirosPassos\For1\obj\Debug\netcoreapp2.2\For1.AssemblyInfo.cs
+C:\Users\T4\CSharp\PrimeirosPassos\For1\obj\Debug\netcoreapp2.2\For1.dll
+C:\Users\T4\CSharp\PrimeirosPassos\For1\obj\Debug\netcoreapp2.2\For1.pdb
