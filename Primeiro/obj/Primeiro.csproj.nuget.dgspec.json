@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\T4\\CSharp\\PrimeirosPassos\\Primeiro\\Primeiro.csproj": {}
+    "C:\\Users\\T4\\CSharp\\PrimeirosPassos\\primeiro\\Primeiro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\T4\\CSharp\\PrimeirosPassos\\Primeiro\\Primeiro.csproj": {
+    "C:\\Users\\T4\\CSharp\\PrimeirosPassos\\primeiro\\Primeiro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\T4\\CSharp\\PrimeirosPassos\\Primeiro\\Primeiro.csproj",
+        "projectUniqueName": "C:\\Users\\T4\\CSharp\\PrimeirosPassos\\primeiro\\Primeiro.csproj",
         "projectName": "Primeiro",
-        "projectPath": "C:\\Users\\T4\\CSharp\\PrimeirosPassos\\Primeiro\\Primeiro.csproj",
+        "projectPath": "C:\\Users\\T4\\CSharp\\PrimeirosPassos\\primeiro\\Primeiro.csproj",
         "packagesPath": "C:\\Users\\T4\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\T4\\CSharp\\PrimeirosPassos\\Primeiro\\obj\\",
+        "outputPath": "C:\\Users\\T4\\CSharp\\PrimeirosPassos\\primeiro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
